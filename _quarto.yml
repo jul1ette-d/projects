@@ -9,6 +9,8 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/jul1ette-d/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/juliette-degoul-68839a20/
       
 format:
   html:
