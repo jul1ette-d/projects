@@ -1,0 +1,11 @@
+{
+  "hash": "ca06f745afb1f5be8de84c3743e8968e",
+  "result": {
+    "markdown": "---\ntitle: \"Test-Post\"\nauthor: \"Juliette Degoul\"\ndate: \"2023-06-19\"\nformat: html\nexecute:\n enabled: true\ncategories: [news]\n---\n\n### Test if a post\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\n```\n:::\n\n\n\n",
+    "supporting": [
+      "Test_Post_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
